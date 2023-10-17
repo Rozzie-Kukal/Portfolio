@@ -1,0 +1,47 @@
+.container {
+    margin: 20px;
+    background-color: bisque;
+}
+.img {
+    width: 60%;
+    border-width: 30px;
+    border: #121010;
+    border-radius: 80%;
+    padding: 10px;
+  
+}
+
+.div1{
+    display: flex;
+    padding: 40px;
+}
+h1 {
+    background-color: rgb(238, 227, 218);
+    border-radius: 40px;
+    font-family: 'Autour One', cursive;
+}
+.in-div {
+   
+    border-radius: 50%;
+    margin: 20px;
+}
+.inin-div {
+ 
+    margin-top: 30px;
+    border-radius: 30px;
+}
+h3{
+    size: 90px;
+}
+#preloader {
+    background: #121010 url(https://i.pinimg.com/originals/05/cb/41/05cb41dd40c1045ef47ee2be34147c79.gif) no-repeat center center;
+    background-size: 30%;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+
+
+

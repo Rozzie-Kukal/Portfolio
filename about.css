@@ -1,0 +1,16 @@
+.main {
+    align-items: center;
+    background-color:rgb(238, 227, 218);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 50px;
+    font-size:large ;
+    font-family: 'Autour One', cursive;
+}
+.main2 {
+    background-color:rgb(238, 227, 218) ;
+    border-radius: 70px;
+    padding: 30px;
+    margin-bottom: 30px;
+    font-size: medium;
+}
